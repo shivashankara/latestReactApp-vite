@@ -3,7 +3,7 @@ import React from 'react';
 const Dashboard = () => {
     return (
         <div>
-            Dashboard Component
+            Dashboard  
             <p> 
             Only authenticated users can access this page.
             </p>
